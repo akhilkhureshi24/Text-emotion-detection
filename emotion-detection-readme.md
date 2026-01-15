@@ -638,9 +638,9 @@ of this software and associated documentation files...
 
 ## 📧 Contact
 
-**Your Name** - [@yourtwitter](https://twitter.com/yourtwitter) - your.email@example.com
+**AkhilKhureshi** - [@yourtwitter](https://twitter.com/yourtwitter) - your.email@example.com
 
-**Project Link**: [https://github.com/yourusername/emotion-detection](https://github.com/yourusername/emotion-detection)
+**Project Link**: (https://github.com/akhilkhureshi24/Text-emotion-detection)
 
 ---
 
@@ -660,10 +660,10 @@ If you use this project in your research, please cite:
 
 ```bibtex
 @software{emotion_detection_2024,
-  author = {Your Name},
+  author = {AkhilKhureshi24},
   title = {Emotion Detection from Textual Comments},
   year = {2024},
-  url = {https://github.com/yourusername/emotion-detection}
+  url = {https://github.com/akhilkhureshi24/Text-emotion-detection}
 }
 ```
 
@@ -673,6 +673,6 @@ If you use this project in your research, please cite:
 
 **⭐ Star this repo if you find it useful! ⭐**
 
-Made with ❤️ by [Your Name]
+Made with ❤️ by [AkhilKhureshi]
 
 </div>
